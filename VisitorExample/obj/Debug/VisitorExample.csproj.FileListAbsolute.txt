@@ -1,0 +1,6 @@
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\VisitorExample\VisitorExample\obj\Debug\VisitorExample.csprojResolveAssemblyReference.cache
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\VisitorExample\VisitorExample\bin\Debug\VisitorExample.exe.config
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\VisitorExample\VisitorExample\bin\Debug\VisitorExample.exe
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\VisitorExample\VisitorExample\bin\Debug\VisitorExample.pdb
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\VisitorExample\VisitorExample\obj\Debug\VisitorExample.exe
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\VisitorExample\VisitorExample\obj\Debug\VisitorExample.pdb
